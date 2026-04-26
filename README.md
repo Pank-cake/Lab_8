@@ -54,7 +54,13 @@ DeleteRecord(): Запрашивает ключи (номер и время) и 
 
 
 ### Тестирование
-![Uploading Test2.PNG…]()
+<img width="276" height="160" alt="Test7" src="https://github.com/user-attachments/assets/dbfdcd90-d133-46b5-bc09-807825b10d48" />
+<img width="284" height="104" alt="Test6" src="https://github.com/user-attachments/assets/3ad5cc97-3cfc-40ad-b846-a819b8f11969" />
+<img width="377" height="126" alt="Test5" src="https://github.com/user-attachments/assets/94301ac8-16ec-464f-a5a0-07e0d0d53d13" />
+<img width="779" height="142" alt="Test4" src="https://github.com/user-attachments/assets/c91ff41b-f75f-4f76-a5e6-3adb837cde24" />
+<img width="948" height="466" alt="Test3" src="https://github.com/user-attachments/assets/24cd476c-5ffc-492e-910d-50d8a85c24bf" />
+<img width="466" height="259" alt="Test2" src="https://github.com/user-attachments/assets/eadb169d-3c06-4ef8-998b-c569de18afe8" />
+<img width="909" height="470" alt="Test1" src="https://github.com/user-attachments/assets/36969a55-5bce-4538-95aa-4a4e7611f873" />
 
 
 

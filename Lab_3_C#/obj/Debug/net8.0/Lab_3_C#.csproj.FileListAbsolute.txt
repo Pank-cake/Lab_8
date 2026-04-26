@@ -1,0 +1,15 @@
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\bin\Debug\net8.0\Lab_3_C#.exe
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\bin\Debug\net8.0\Lab_3_C#.deps.json
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\bin\Debug\net8.0\Lab_3_C#.runtimeconfig.json
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\bin\Debug\net8.0\Lab_3_C#.dll
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\bin\Debug\net8.0\Lab_3_C#.pdb
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\Lab_3_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\Lab_3_C#.AssemblyInfoInputs.cache
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\Lab_3_C#.AssemblyInfo.cs
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\Lab_3_C#.csproj.CoreCompileInputs.cache
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\Lab_3_C#.sourcelink.json
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\Lab_3_C#.dll
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\refint\Lab_3_C#.dll
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\Lab_3_C#.pdb
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\Lab_3_C#.genruntimeconfig.cache
+C:\Users\Надежда\source\repos\Lab_3_C#\Lab_3_C#\obj\Debug\net8.0\ref\Lab_3_C#.dll

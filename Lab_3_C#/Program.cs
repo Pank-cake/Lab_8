@@ -6,7 +6,6 @@ namespace Lab8
 {
     class Program
     {
-        // Поле приведено к стандарту именования Microsoft (_camelCase)
         private static List<BusSchedule> _schedules;
 
         static void Main(string[] args)
